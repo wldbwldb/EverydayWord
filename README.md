@@ -10,6 +10,7 @@
 2. 수학
 > 얘는 정기적이지는 않고 그냥 정리용도 일듯	
 
+
 	1. [Dot](./Math/Dot.md)
 	2. [SinCosTan](./Math/SinCosTan.md)
 
