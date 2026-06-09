@@ -12,10 +12,14 @@
 	1. [소프트웨어 생명 주기](./keyword/0428SDLC.md)
 
 2. 수학
-> 얘는 정기적이지는 않고 그냥 정리용도 일듯	
-1. 필요 위주로
+	> 얘는 정기적이지는 않고 그냥 정리용도 일듯	
+	- 필요 위주로
 	1. [Dot](./Math/Dot.md)
 	2. [SinCosTan](./Math/SinCosTan.md)
+	2. [Linear interpolation](./Math/LinearInterpolation.md)
+3. 영어
+3. C#
+3. Unity
 
 
 > 해야할일 
