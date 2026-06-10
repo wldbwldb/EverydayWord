@@ -18,8 +18,11 @@
 	2. [SinCosTan](./Math/SinCosTan.md)
 	2. [Linear interpolation](./Math/LinearInterpolation.md)
 3. 영어
+    > 내가 배운게 알바벳 외우기 + 이중 모음 자음 정도인데 그거 적어야하나, 그거라도 적어야지, 아직도 가끔 햇가리지만...
 3. C#
+    > 이거는 최대한 유니티 쪽 메서드 뺴고 변수 종류, class이런거 위주로 해야하나? +=나 ++ 같은거?
 3. Unity
+    > 이거는... 그거 어제 배운 필터 종류, 리지드 바디 박스 콜라이더 OnTrigger나 그런거 하면 되겠지..?
 
 
 > 해야할일 
